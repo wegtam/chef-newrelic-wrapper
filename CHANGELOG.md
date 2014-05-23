@@ -1,13 +1,8 @@
-newrelic-wrapper CHANGELOG
-==========================
+# newrelic-wrapper CHANGELOG
 
 This file is used to list changes made in each version of the newrelic-wrapper cookbook.
 
-0.1.0
------
-- [your_name] - Initial release of newrelic-wrapper
+## 0.8.0
 
-- - -
-Check the [Markdown Syntax Guide](http://daringfireball.net/projects/markdown/syntax) for help with Markdown.
+* Initial release of the newrelic-wrapper cookbook.
 
-The [Github Flavored Markdown page](http://github.github.com/github-flavored-markdown/) describes the differences between markdown on github and standard markdown.
