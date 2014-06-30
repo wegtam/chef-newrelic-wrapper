@@ -20,6 +20,7 @@
 newrelic = Chef::EncryptedDataBagItem.load("api-data", "newrelic")
 
 default['newrelic']['license'] = newrelic['license_key']
+default['newrelic']['license_key'] = newrelic['license_key']
 default['newrelic']['server_monitoring']['license'] = newrelic['license_key']
 default['newrelic']['application_monitoring']['license'] = newrelic['license_key']
 default['newrelic']['plugin_monitoring']['license'] = newrelic['license_key']
