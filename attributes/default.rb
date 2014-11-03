@@ -24,4 +24,5 @@ default['newrelic']['license_key'] = newrelic['license_key']
 default['newrelic']['server_monitoring']['license'] = newrelic['license_key']
 default['newrelic']['application_monitoring']['license'] = newrelic['license_key']
 default['newrelic']['plugin_monitoring']['license'] = newrelic['license_key']
+default['newrelic_meetme_plugin']['license'] = newrelic['license_key']
 
